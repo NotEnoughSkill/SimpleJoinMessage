@@ -1,0 +1,12 @@
+name: SimpleJoinMessage
+version: 1.0
+description:
+author: NotEnoughSkill
+main: me.NotEnoughSkill.SimpleJoinMessage.Main
+depend: []
+prefix: SimpleJoin
+
+commands:
+  simplejoinmessage:
+    description: Default command
+    aliases: [sjm]
